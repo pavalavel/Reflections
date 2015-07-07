@@ -1,1 +1,4 @@
 1) Staging area enables one to be choosy about what need to be commited.
+
+2)Before adding to the stage, we can check the modified files usig "git status"
+which allows to decide what stage and commit.
