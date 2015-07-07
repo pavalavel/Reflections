@@ -2,3 +2,6 @@
 
 2)Before adding to the stage, we can check the modified files usig "git status"
 which allows to decide what stage and commit.
+
+3)The branches allows the developer to take maximum risk and modify the code. 
+because this is not really going to affect the main or the master branch.
