@@ -5,3 +5,9 @@ which allows to decide what stage and commit.
 
 3)The branches allows the developer to take maximum risk and modify the code. 
 because this is not really going to affect the main or the master branch.
+
+4)It shows the clear picture of how reachability can be attained by creating 
+a new branch for it.
+
+5)Graphical representation of branches helped me to understand better. it wouldn't 
+have made sense if it wasn't represented in diagram.
