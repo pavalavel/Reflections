@@ -11,3 +11,5 @@ a new branch for it.
 
 5)Graphical representation of branches helped me to understand better. it wouldn't 
 have made sense if it wasn't represented in diagram.
+
+6)i feel manual merging is better just to ensure the quality of the code.
